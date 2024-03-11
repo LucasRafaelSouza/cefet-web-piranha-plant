@@ -1,0 +1,21 @@
+body, html {
+    margin: 0px;
+    padding: 0px;
+    background-image: url("../imagens/fundo.png");
+}
+* {
+	font-family: Arial;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    color: limegreen;
+}
+p{
+    text-align: justify;
+    
+}
+
+.italico {
+    font-style: italic;
+}
